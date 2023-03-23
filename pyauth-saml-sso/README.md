@@ -5,17 +5,17 @@
 
 <p align="center">Python solution to automate the authentication process on SAML SSO authentication systems to get data of protected pages.</p>
 
-<div style="text-align: center;">
+<p align="center">
 
 ![python](https://img.shields.io/badge/language-python-blue)
 ![beta](https://img.shields.io/badge/status-stable-green)
 ![zabbix](https://img.shields.io/badge/version-1.0-9cf)
 
-</div>
+</p>
 
 
 
-## Process of authentication:
+## 1 - Process of authentication
 
 1 - The user access the login page. Then, the user is redirected to real login page with parameters on URL. One of these parameters is the sessionDataKey.
 
@@ -28,7 +28,7 @@
 
 5 - The last process is make a request to protected page.
 
-## Usage Example
+## 2 - Usage Example
 
 ```python
 from auth import AuthSamlSso
@@ -52,7 +52,7 @@ else:
 ```
 
 
-## ToDo:
+## 3 - ToDo:
 
 Will be incredible if the script can follow redirects and self identify the urls of authenticators and service providers.
 If we can do this, we only will need one public method.
