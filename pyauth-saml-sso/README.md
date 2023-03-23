@@ -3,7 +3,7 @@
 </p>
 <h2 align="center"> PyAuth: SAML SSO </h2>
 
-<p align="center">Python solution to automate the authentication process on SAML SSO authentication systems to get data of protected pages.</p>
+<p align="center">Python solution to automate the authentication process in SAML SSO protected pages.</p>
 
 <div align="center">
 
