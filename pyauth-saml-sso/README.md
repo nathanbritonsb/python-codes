@@ -5,14 +5,13 @@
 
 <p align="center">Python solution to automate the authentication process on SAML SSO authentication systems to get data of protected pages.</p>
 
-<p align="center">
+<div align="center">
 
-![python](https://img.shields.io/badge/language-python-blue)
-![beta](https://img.shields.io/badge/status-stable-green)
-![zabbix](https://img.shields.io/badge/version-1.0-9cf)
+<a href="">![python](https://img.shields.io/badge/language-python-blue)</a>
+<a href="">![beta](https://img.shields.io/badge/status-stable-green)</a>
+<a href="">![zabbix](https://img.shields.io/badge/version-1.0-9cf)</a>
 
-</p>
-
+</div>
 
 
 ## 1 - Process of authentication
