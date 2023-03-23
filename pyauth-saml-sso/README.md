@@ -8,11 +8,10 @@
 <div align="center">
 
 <a href="">![python](https://img.shields.io/badge/language-python-blue)</a>
-<a href="">![beta](https://img.shields.io/badge/status-stable-green)</a>
-<a href="">![zabbix](https://img.shields.io/badge/version-1.0-9cf)</a>
+<a href="">![stable](https://img.shields.io/badge/status-stable-green)</a>
+<a href="">![version](https://img.shields.io/badge/version-1.0-9cf)</a>
 
 </div>
-
 
 ## 1 - Process of authentication
 
